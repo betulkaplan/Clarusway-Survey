@@ -1,0 +1,9 @@
+.question-line {
+  font-size: 24px;
+}
+
+.question-part {
+  border: none;
+  margin-bottom: 20px;
+  line-height: 1.6;
+}
